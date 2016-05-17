@@ -6,11 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-던.킨.도.너.츠
-무 봤 나 용
-aaa
-추가햇긔
-bbbbb
-끼용끼용끼이이이용
+aaaa
 </body>
 </html>
